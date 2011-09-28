@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{% if title %}<h1>{{ title }}</h1>{% end %}]]></content>
+	<scope>source.html</scope>
+	<description>{{ title }}</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{{ head|none }}]]></content>
+	<scope>source.html</scope>
+	<description>{{ head|none }}</description>
+</snippet>

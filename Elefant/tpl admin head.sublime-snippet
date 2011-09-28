@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{! admin/head !}]]></content>
+	<scope>source.html</scope>
+	<description>{! admin/head !}</description>
+</snippet>

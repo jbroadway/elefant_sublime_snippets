@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{! $SELECTION !}]]></content>
+	<scope>source.html</scope>
+	<description>{! tpl include !}</description>
+</snippet>

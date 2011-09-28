@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<title>{{ conf ('General', 'site_name') }} - {{ window_title }}</title>]]></content>
+	<scope>source.html</scope>
+	<description>{{ window_title }}</description>
+</snippet>
