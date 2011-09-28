@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[\$page->template = false;
+
+\$error = false;
+
+switch (\$this->request_method ()) {
+	case 'GET':
+		$0
+		break;
+	case 'POST':
+		break;
+	case 'PUT':
+		\$data = \$this->get_put_data ();
+		break;
+	case 'DELETE':
+		break;
+}
+
+\$res = new StdClass;
+if (\$error) {
+	\$res->success = false;
+	\$res->error = \$error;
+} else {
+	\$res->success = true;
+	\$res->data = \$out;
+}
+
+echo json_encode (\$res);]]></content>
+	<tabTrigger>new_rest</tabTrigger>
+	<scope>source.php</scope>
+	<description>rest outline (new_rest)</description>
+</snippet>
