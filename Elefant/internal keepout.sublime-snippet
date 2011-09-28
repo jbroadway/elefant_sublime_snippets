@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[if (! \$this->internal) {
+	die ('Must be called by another handler');
+}
+
+]]></content>
+	<tabTrigger>internal</tabTrigger>
+	<scope>source.php</scope>
+	<description>if (! $this-&gt;internal)</description>
+</snippet>

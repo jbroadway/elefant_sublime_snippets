@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[i18n_get ($SELECTION)]]></content>
+	<tabTrigger>i18n</tabTrigger>
+	<scope>source.php</scope>
+	<description>i18n_get (…)</description>
+</snippet>
