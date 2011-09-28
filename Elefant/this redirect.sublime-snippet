@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->redirect ('$SELECTION');]]></content>
+	<tabTrigger>this_redirect</tabTrigger>
+	<scope>source.php</scope>
+	<description>$this-&gt;redirect ('…')</description>
+</snippet>
