@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[if (! \$this->cli) {
+	die ('Must be run from cli');
+}
+
+]]></content>
+	<tabTrigger>cli</tabTrigger>
+	<scope>source.php</scope>
+	<description>if (! $this-&gt;cli)</description>
+</snippet>

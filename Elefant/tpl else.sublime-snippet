@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{% else %}]]></content>
+	<scope>source.html</scope>
+	<description>{% else %}</description>
+</snippet>

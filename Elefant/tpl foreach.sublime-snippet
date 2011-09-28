@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{% foreach $SELECTION %}]]></content>
+	<scope>source.html</scope>
+	<description>{% foreach … %}</description>
+</snippet>

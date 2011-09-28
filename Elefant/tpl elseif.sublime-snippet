@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{% elseif $SELECTION %}]]></content>
+	<scope>source.html</scope>
+	<description>{% elseif … %}</description>
+</snippet>

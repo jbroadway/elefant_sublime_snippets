@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[{% end %}]]></content>
+	<scope>source.html</scope>
+	<description>{% end %}</description>
+</snippet>
