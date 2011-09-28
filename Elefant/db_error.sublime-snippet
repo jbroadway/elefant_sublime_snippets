@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$error = db_error ();]]></content>
+	<tabTrigger>db_error</tabTrigger>
+	<scope>source.php</scope>
+	<description>db_error ()</description>
+</snippet>

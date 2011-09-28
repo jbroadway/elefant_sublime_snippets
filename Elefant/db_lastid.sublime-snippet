@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$id = db_lastid ();]]></content>
+	<tabTrigger>db_lastid</tabTrigger>
+	<scope>source.php</scope>
+	<description>db_lastid ()</description>
+</snippet>

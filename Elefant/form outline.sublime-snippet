@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[\$form = new Form ('post', '$SELECTION');
+
+if (\$form->submit ()) {
+	// handle
+	$0
+} else {
+	\$obj = new StdClass;
+	// assign defaults
+	\$obj = \$form->merge_values (\$obj);
+	\$obj->failed = \$form->failed;
+
+	echo \$tpl->render ('$SELECTION', \$obj);
+}]]></content>
+	<tabTrigger>new_form</tabTrigger>
+	<scope>source.php</scope>
+	<description>form outline (new_form)</description>
+</snippet>
