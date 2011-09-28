@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$page->add_script ('$SELECTION');]]></content>
+	<tabTrigger>add_script</tabTrigger>
+	<scope>source.php</scope>
+	<description>$page-&gt;add_script (…)</description>
+</snippet>

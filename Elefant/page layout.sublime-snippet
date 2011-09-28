@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$page->layout = '$SELECTION';]]></content>
+	<tabTrigger>page_layout</tabTrigger>
+	<scope>source.php</scope>
+	<description>$page-&gt;layout = '…'</description>
+</snippet>
