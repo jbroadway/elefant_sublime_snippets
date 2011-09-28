@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$res = $SELECTION::query ()
+	->where ($0)
+	->fetch_field ();]]></content>
+	<tabTrigger>model_fetch_field</tabTrigger>
+	<scope>source.php</scope>
+	<description>model fetch_field</description>
+</snippet>
