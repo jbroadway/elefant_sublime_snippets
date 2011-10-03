@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[\$page->template = false;
+	<content><![CDATA[\$page->layout = false;
 
 \$error = false;
 
